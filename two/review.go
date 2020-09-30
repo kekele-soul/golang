@@ -94,6 +94,7 @@ func chang(){
 	//常量的定义
 	const PAI float32 = 3.14
 	fmt.Println(PAI)
+	fmt.Printf("a",PAI)
 	//格式二
 	const BAIDU = "www.baidu.com"
 	fmt.Println(BAIDU)
@@ -117,5 +118,5 @@ func chang(){
 		 sex1 string = "男"
 	)
 	fmt.Println(x,y,z)
-	fmt.Println(x,)
+
 }
