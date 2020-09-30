@@ -117,5 +117,5 @@ func chang(){
 		 sex1 string = "男"
 	)
 	fmt.Println(x,y,z)
-	fmt.Println(x)
+	fmt.Println(x,)
 }
